@@ -1,1 +1,2 @@
-README.md linguist-language=C
+* linguist-detectable=false
+dummy.c linguist-detectable=true
